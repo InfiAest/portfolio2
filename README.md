@@ -1,11 +1,5 @@
 # Portfolio 2 - Course Assingment
 
-<!--
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/71286689/171629136-a4ac2b99-0f2d-4370-a837-57378a0da69d.png" alt="Portfolio screenshots" />
-</p>
--->
-
 ## Description
 
 Create a portfolio webpage that lists these 3 projects:
